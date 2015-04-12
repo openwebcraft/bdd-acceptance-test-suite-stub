@@ -6,7 +6,7 @@ The stub for a *Behavior Driven Development* (BDD) Acceptance Test Suite using [
 
 You need [Ruby] and [Bundler] installed.
 
-**Note:** If you're using a ruby manager (e.g. [Ruby Version Manager (RVM)]): the project ships with `.ruby-version` and `.ruby-gemset` files that will require `ruby-1.9.3-p448` and assures that a project-specific gemset (`bdd-acceptance-test-suite-stub`) exists.
+**Note:** If you're using a ruby manager (e.g. [Ruby Version Manager (RVM)]): the project ships with `.ruby-version` and `.ruby-gemset` files that will require `1.9.3-p551` and assures that a project-specific gemset (`bdd-acceptance-test-suite-stub`) exists.
 
 In order to run your tests on the [Sauce Labs] Cloud Testing Platform you need to have a [Sauce Labs] account.
 
